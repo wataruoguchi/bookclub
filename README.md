@@ -1,2 +1,2 @@
 # bookclub
-Book club notes
+My personal book club notes.
