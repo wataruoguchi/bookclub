@@ -1,71 +1,39 @@
-# Chapter 1
+# RECORDING AMERICA
 
-## Introduction: Beyond _Schoolhouse Rock!_
+## Chapter 1 - Archaeology
 
-### Topic 1 - When California legalized marijuana use
+EDD - Employment Development Department
 
-- Many people who have a felony cannot find a job.
-- It generated a big industry.
-- The marijuana gold rush opportunity was limited to:
-   - People who never used weed, or
-   - People who'd never been caught.
+Applicants were calling the EDD, but only a tiny fraction of the calls were being answered (1/1000!)
 
-> Whites and people of color use marijuana at approximately the same rates, but people of color went to jail for it nearly four times more often
+Even if it was answered, it was by newly hired staffers with no training.
 
-Removing criminal history is hard.
+Additionally, they found out the EDD had limited each office to escalating just a few cases a week (!!!)
 
-- Too many entities such as the arresting agency (local, state, or federal police), jail and prison files, prosecutors' records, probation records, and all the relevant materials in all the applicable jurisdictions are involved.
-- Hence, hardly anyone tried to start the process.
+> What most people don't appreciate, though, is just how difficult it can be to make computers do something as simple as counting the number of applications when there isn't one system in question but many and those systems have accrued in layers over the decades.
 
+Tech investments must always be pitched as adding features, not renovating. -> It becomes complex and fragile.
 
-### Topic 2 - Medicare
+> It becomes harder and harder to support the technologies in the lower, older layers, while the more recent layers require constant updates and patches. The paint cracks.
 
-In 1965 - 48% of the elderly lacked health coverage. Today, it's just 2%.
+The oldest layer is running on an IBM mainframe. Some layers are written in COBOL... It is operated with green-screen emulators. AND some started writing scripts (macros) to automate routines on top of that. Now you need people who know multiple programming languages AND all these particular macro operates.
 
-In 2015 - a major overhaul of Medicare. But this does not get supported byt many stakeholders.
+> The only place someone can learn that is by working at the EDD. And given how chaotically this layer of technology developed over several decades - with new macros written every time the department needed to implement a new workflow or respond to some change in the rules or regulations - it can take many years on the job to get up to speed.
 
-> The only thing he hated more than the current system was the thought of having to learn a new one.
+Over the decades, there are so many new systems have been built. The users of those invented different approaches and different workaround - not knowing that cause inconsistent.
 
-It was predicted to cause an exodus from Medicare within their ranks. 
+- "Stop Payment Alert - Claim Review" - 730k, no critical claims. Ignored.
+- "Stop Payment Alert" - Super critical, but also ignored.
 
-### Topic 3 - COVID-19, EI (Employment Insurance), Special Assistance
+Just to count how many backlogged unemployment applications, humans needed to look not just at one system but many. And needed specialized knowledge of the meaning of queues to know "What is backlogged".
 
-Congress pushed this, but the progress was slow. Even thought the system existed. Many states noticed their system for administering UI needs immedicate modernization.
+> California's EDD was theoretically just weeks away from awarding a modernization contract that it had been working on for ten years. With the EDD in the spotlight, the legislature paid particular attention to this pending contract and noted, with horror, that the modernization eddort was projected to take another eleven years.
 
-> But twenty-two states had already "modernized" - meaning they had moved from decades-old mainframe computers to the cloud - and they fared no better.
+It takes years to learn the business logic and programs. And the features have built on top of that.
 
-> For once, thanks to an extraordinary crisis, Democrats and Republicans had (mostly) come together and acted with speed and resolve. But their best intentions were being dashed on the ugly rocks of implemntation.
+One of the ex-Google SDE lead the project for counting the number of backlogged unemployment applications at the EDD. They forecasted "one week", but it took seven weeks (!)
 
-### Topic 4 - Code for America
+> The final number was not 239,000, plus whatever other applications had become backlogged during those seven weeks. It was 1.2 million.
 
-Code for America was founded. City and county governments partnered with Code for America to improve the quality of their technology and design.
+1.2 mil / 238k -> 5 times more!
 
-In 2013 - `healthcare.gov` was launched, but the site immediately crashed :/
-
-- ["Schoolhouse Rock!" on YouTube](https://youtu.be/OgVKvqTItto)
-
-The 115th US Congress enacted 344 pieces of legislation -> Add to the output of 50 states and 35,000+ local governments and more work. Someone in each org needs to figure out how to implement and enforce it (!)
-
-Every time, the system may need to be updated.
-
-> the essence of the digital revolution is that it has become easier to implement ideas of all kinds - business, cultural, and social.
-> Inside government, however, the digital revolution has played out very differently. Even as our expectations about the immediacy and accuracy of services have skyrocketed, the implementation of laws has become anything but easier. The famous slowness of bureaucracy is a key reason, but all too frequently, what now widens the gap between policy intentions and actual outcomes is the messy task of implementation through digital technology, and the ways government makes working with that technology uniquely complex.
-
-"Government needs to spend more on technology" people say.
-
-Government does not know if the estimation the private sectors provided is reasonable and appropriate. They need to pay blindly. And private sectors draw $$$ from government.
-
-**Personal note: e.g., Fujitsu.**
-
-> When all your time is spent answering questions and writing reports for other people inside government, it's mighty hard to be focused on the people outside government you're supposed to serve.
-> Spending more ono blockbuster projects, pursuing the latest technologies, outsourcing more aggressively, and ramping up oversight doesn't help. But it's worse than that. These supposed solutions hurt, making it even harder to deliver on policy promises.
-
-Tech vendors are supposed to look at the end users (residents, citizens) but the project is managed by government.
-
-"Game of Telephone"
-
-> The systems are designed instead to meet the needs of the bureaucracies that create them - they are risk-mitigation strategies for dozens of internal stakeholders.
-
-Policymakers are not necessarily the user.
-
-## 1. Archaeology
